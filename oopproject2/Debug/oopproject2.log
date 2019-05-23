@@ -1,0 +1,106 @@
+﻿  library.cpp
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): warning C4570: 'user': is not explicitly declared as abstract but has abstract functions
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): note: 'System::String ^user::cheak(System::String ^,library ^)': is abstract
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(33): note: see declaration of 'user::cheak'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.cpp(21): warning C4101: 'price': unreferenced local variable
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.cpp(22): warning C4101: 'genre': unreferenced local variable
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.cpp(20): warning C4101: 'no_of_copies': unreferenced local variable
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.cpp(23): warning C4101: 'author': unreferenced local variable
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.cpp(843): warning C4101: 'b': unreferenced local variable
+  MyForm.cpp
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): warning C4570: 'user': is not explicitly declared as abstract but has abstract functions
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): note: 'System::String ^user::cheak(System::String ^,library ^)': is abstract
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(33): note: see declaration of 'user::cheak'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform42.h(18): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(20): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(38): warning C4677: 'MyForm2': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(68): warning C4677: 'gridbook_data': signature of non-private member contains assembly private type 'book'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(13): note: see declaration of 'book'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(100): warning C4677: 'gridreader_data': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform1.h(24): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform1.h(41): warning C4677: 'MyForm1': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(18): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(19): warning C4677: 'READER': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(36): warning C4677: 'MyForm3': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(36): warning C4677: 'MyForm3': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(75): warning C4677: 'gridbook_data': signature of non-private member contains assembly private type 'book'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(13): note: see declaration of 'book'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform.h(31): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform.h(40): warning C4677: 'MyForm': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform.h(52): warning C4677: 'load_file_requestdic': signature of non-private member contains assembly private type 'request'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(51): note: see declaration of 'request'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform.h(87): warning C4677: 'load_file_bookdic': signature of non-private member contains assembly private type 'book'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(13): note: see declaration of 'book'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform.h(110): warning C4677: 'load_file_readerdic': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform.cpp(13): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): warning C4570: 'user': is not explicitly declared as abstract but has abstract functions
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): note: 'System::String ^user::cheak(System::String ^,library ^)': is abstract
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(33): note: see declaration of 'user::cheak'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform42.h(18): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(20): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(38): warning C4677: 'MyForm2': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(68): warning C4677: 'gridbook_data': signature of non-private member contains assembly private type 'book'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(13): note: see declaration of 'book'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(100): warning C4677: 'gridreader_data': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform1.h(24): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform1.h(41): warning C4677: 'MyForm1': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+  MyForm2.cpp
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): warning C4570: 'user': is not explicitly declared as abstract but has abstract functions
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): note: 'System::String ^user::cheak(System::String ^,library ^)': is abstract
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(33): note: see declaration of 'user::cheak'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform42.h(18): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(20): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(38): warning C4677: 'MyForm2': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(68): warning C4677: 'gridbook_data': signature of non-private member contains assembly private type 'book'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(13): note: see declaration of 'book'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform2.h(100): warning C4677: 'gridreader_data': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+  MyForm3.cpp
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): warning C4570: 'user': is not explicitly declared as abstract but has abstract functions
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): note: 'System::String ^user::cheak(System::String ^,library ^)': is abstract
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(33): note: see declaration of 'user::cheak'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(18): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(19): warning C4677: 'READER': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(36): warning C4677: 'MyForm3': signature of non-private member contains assembly private type 'reader'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(36): note: see declaration of 'reader'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(36): warning C4677: 'MyForm3': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform3.h(75): warning C4677: 'gridbook_data': signature of non-private member contains assembly private type 'book'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(13): note: see declaration of 'book'
+  MyForm42.cpp
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): warning C4570: 'user': is not explicitly declared as abstract but has abstract functions
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(27): note: 'System::String ^user::cheak(System::String ^,library ^)': is abstract
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(33): note: see declaration of 'user::cheak'
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\myform42.h(18): warning C4677: 'read': signature of non-private member contains assembly private type 'library'
+  d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.h(107): note: see declaration of 'library'
+  Generating Code...
+d:\computer science fuclty\subjects\fuclty projects\oopproject2\oopproject2\library.cpp(870): warning C4715: 'library::will_blocked': not all control paths return a value
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  library.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  library.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  oopproject2.vcxproj -> D:\computer science fuclty\subjects\fuclty projects\oopproject2\Debug\oopproject2.exe
