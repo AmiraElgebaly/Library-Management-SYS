@@ -1,5 +1,8 @@
 # Library-Management-SYS
 The library, contains tens of thousands of books and members which must be organized in order to prevent chaos. Write C++ program that allow performance of the actions needed to manage the library in a simple and comfortable way.  The actions will include addition/removal of books, addition/removal of members, member and book searches, and much more. 
+
+
+ --------------------------------------------------------------------------------------------------
 The system will support two distinct types of users Librarians and Readers. For each user (reader/librarian) exists a unique Id and password, used for user authentication to prove identity of the user.
 Reader should have (FirstName, LastName, Address, Cellphone, Email, isBlocked)
 
